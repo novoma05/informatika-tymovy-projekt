@@ -2,5 +2,5 @@
 
 // zde deklarovat funkce/třídy/struktury implementačního souboru draha.cpp
 
-void clearConsole()
-void bwl_koule()
+void clearConsole();
+void bwl_koule();

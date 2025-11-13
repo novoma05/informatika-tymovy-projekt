@@ -1,5 +1,7 @@
 #include "draha.h"
 #include <iostream>
+#include <thread>
+#include <chrono>
 
 // zde definovat funkce/třídy/struktury potřebné pro vypsání dráhy
 // přidat potřebné knihovny pomocí #include
